@@ -1,4 +1,4 @@
 ### Assets
 
-Public Assets of Azury\
+Public Assets for Azury\
 **[azury.gg](https://azury.gg)**
