@@ -1,6 +1,6 @@
 #### ASSETS FOR AZURY
 
-**Don't use files included in this repository for your project!**
+> Don't use files included in this repository for your project
 
 #### CREDITS
 
