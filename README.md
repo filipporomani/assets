@@ -1,4 +1,11 @@
-### Assets
+#### ASSETS FOR AZURY
 
-Public Assets for Azury\
-**[azury.gg](https://azury.gg)**
+**Don't use files included in this repository for your project!**
+
+#### CREDITS
+
+- [Twemoji](https://twemoji.twitter.com) (Emojis)
+- [Flaticon](https://www.flaticon.com) (Images)
+- [Freepik](https://www.freepik.com) (Images)
+- [Undraw](https://undraw.co) (Illustrations)
+- [Indian Type Foundry](https://www.indiantypefoundry.com) (Font)
