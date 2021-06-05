@@ -8,4 +8,3 @@
 - [Flaticon](https://www.flaticon.com) (Images)
 - [Freepik](https://www.freepik.com) (Images)
 - [Undraw](https://undraw.co) (Illustrations)
-- [Indian Type Foundry](https://www.indiantypefoundry.com) (Font)
